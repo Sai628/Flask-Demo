@@ -41,10 +41,8 @@ nosetests.xml
 # Virtual environment
 venv
 
-
 # IDE
 .idea/
-
 
 # Mac OSX
 .DS_Store
